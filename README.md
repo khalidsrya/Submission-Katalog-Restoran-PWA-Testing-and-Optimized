@@ -1,7 +1,7 @@
 # Submission: Katalog Restoran PWA + Testing and Optimized
 
 Deskripsi :
-Proyek ini merupakan pengembangan website resmi untuk Perusahaan Ardilia Nugraha Safetya. Website ini bertujuan untuk memberikan informasi tentang perusahaan, layanan yang ditawarkan, dan memberikan pengalaman pengguna yang baik kepada pengunjung.
+Proyek ini merupakan submission akhir kelas Menjadi Front-End Web Development Expert pada studi independet di Dicoding Indonesia
 
 Fitur yang harus ada pada aplikasi:
 
